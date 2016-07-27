@@ -1,0 +1,14 @@
+layout_spectrum: 0.489646318834275
+typography_spectrum: 0.38479294581338763
+color:
+  brandStrength: 0.7340414016507566
+  lightness: 0.8345525707118213
+  saturation: 0.11952005373314023
+  rhythmicContrast: 0.9378542203921825
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+name: todorov
